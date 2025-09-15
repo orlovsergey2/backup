@@ -1,0 +1,21 @@
+# Виртуальные окружения
+venv/
+env/
+.venv/
+
+# Кэш интерпретатора Python
+__pycache__/
+*.py[cod]
+
+# Файлы настроек IDE (PyCharm, VSCode)
+.idea/
+.vscode/
+.DS_Store
+
+# Файлы с секретами (пароли, ключи API!)
+.env
+secrets.py
+
+# Логи и временные файлы
+*.log
+*.tmp

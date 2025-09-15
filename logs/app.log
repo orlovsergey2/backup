@@ -1,0 +1,275 @@
+2025-09-14 02:05:52 - INFO - SYSTEM_EVENT - Logs cleared
+2025-09-14 02:05:54 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 02:05:56 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 02:05:57 - INFO - ADMIN_ACTION - Admin: admin, Action: VIEW_USERS_LIST, Details: , IP: localhost
+2025-09-14 02:05:59 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 02:06:01 - INFO - ADMIN_ACTION - Admin: admin, Action: VIEW_LOGS, Details: , IP: localhost
+2025-09-14 02:06:08 - INFO - ADMIN_ACTION - Admin: admin, Action: VIEW_LOGS, Details: , IP: localhost
+2025-09-14 02:09:11 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 02:09:23 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 02:09:23 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-14 02:09:23 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-14 02:09:23 - INFO - SYSTEM_EVENT - Event: Fallback mode activated, Details: User: admin, IP: localhost
+2025-09-14 02:09:24 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 02:09:25 - INFO - ADMIN_ACTION - Admin: admin, Action: VIEW_LOGS, Details: , IP: localhost
+2025-09-14 02:13:34 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 02:13:42 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 02:13:42 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-14 02:13:42 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-14 02:13:42 - INFO - SYSTEM_EVENT - Event: Fallback mode activated, Details: User: admin, IP: localhost
+2025-09-14 02:13:45 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 02:13:47 - INFO - USER_LOGOUT - User: admin, Type: ADMIN, IP: localhost
+2025-09-14 02:13:48 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 02:13:55 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 02:13:55 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-14 02:13:55 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-14 02:13:55 - INFO - SYSTEM_EVENT - Event: Fallback mode activated, Details: User: admin, IP: localhost
+2025-09-14 02:13:56 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 02:13:58 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 02:14:09 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 02:14:10 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 02:14:32 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 02:14:41 - INFO - USER_LOGOUT - User: admin, Type: ADMIN, IP: localhost
+2025-09-14 02:14:42 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 02:14:50 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 02:14:50 - INFO - AUTH_ATTEMPT - User: user, Status: SUCCESS, IP: localhost
+2025-09-14 02:14:50 - INFO - USER_LOGIN - User: user, Type: USER, IP: localhost
+2025-09-14 02:14:50 - INFO - SYSTEM_EVENT - Event: Fallback mode activated, Details: User: user, IP: localhost
+2025-09-14 02:14:51 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 02:14:53 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-14 02:15:13 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 02:53:30 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 02:53:38 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 02:53:38 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-14 02:53:38 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-14 02:53:38 - INFO - SYSTEM_EVENT - Event: Fallback mode activated, Details: User: admin, IP: localhost
+2025-09-14 02:53:39 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 02:53:41 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 02:59:45 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:00:02 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 03:00:12 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 03:00:12 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-14 03:00:12 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-14 03:00:12 - INFO - SYSTEM_EVENT - Event: Fallback mode activated, Details: User: admin, IP: localhost
+2025-09-14 03:00:13 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:00:14 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 03:00:42 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:00:43 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 03:01:28 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:01:29 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 03:01:43 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:01:48 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 03:01:55 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 03:01:55 - INFO - AUTH_ATTEMPT - User: user, Status: SUCCESS, IP: localhost
+2025-09-14 03:01:55 - INFO - USER_LOGIN - User: user, Type: USER, IP: localhost
+2025-09-14 03:01:55 - INFO - SYSTEM_EVENT - Event: Fallback mode activated, Details: User: user, IP: localhost
+2025-09-14 03:01:56 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:01:57 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-14 03:02:08 - INFO - FILE_OPERATION - User: user, Operation: UPLOAD, File: 04-Magma.png.enc, Status: SUCCESS, IP: localhost
+2025-09-14 03:02:18 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:06:09 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 03:06:17 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 03:06:17 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-14 03:06:17 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-14 03:06:17 - INFO - SYSTEM_EVENT - Event: Fallback mode activated, Details: User: admin, IP: localhost
+2025-09-14 03:06:18 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:06:19 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 03:07:07 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:07:07 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 03:08:38 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:08:39 - INFO - ADMIN_ACTION - Admin: admin, Action: VIEW_USERS_LIST, Details: , IP: localhost
+2025-09-14 03:08:55 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:08:58 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 03:09:05 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 03:09:05 - INFO - AUTH_ATTEMPT - User: admin, Status: FAILED, IP: localhost
+2025-09-14 03:09:10 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 03:09:10 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-14 03:09:10 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-14 03:09:10 - INFO - SYSTEM_EVENT - Event: Fallback mode activated, Details: User: admin, IP: localhost
+2025-09-14 03:09:11 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:09:12 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 03:09:15 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:09:17 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 03:09:24 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 03:09:24 - INFO - AUTH_ATTEMPT - User: user, Status: SUCCESS, IP: localhost
+2025-09-14 03:09:24 - INFO - USER_LOGIN - User: user, Type: USER, IP: localhost
+2025-09-14 03:09:24 - INFO - SYSTEM_EVENT - Event: Fallback mode activated, Details: User: user, IP: localhost
+2025-09-14 03:09:26 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:09:27 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-14 03:09:38 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 03:09:40 - INFO - USER_LOGOUT - User: user, Type: USER, IP: localhost
+2025-09-14 03:09:40 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 22:46:04 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 22:46:19 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 22:46:19 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-14 22:46:19 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-14 22:46:19 - INFO - SYSTEM_EVENT - Event: Fallback mode activated, Details: User: admin, IP: localhost
+2025-09-14 22:46:21 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 22:46:40 - INFO - ADMIN_ACTION - Admin: admin, Action: VIEW_USERS_LIST, Details: , IP: localhost
+2025-09-14 22:46:57 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 22:46:58 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 22:47:30 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 22:47:31 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-14 22:47:35 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 22:56:22 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 22:56:36 - INFO - REGISTRATION - User: sergey, Status: SUCCESS, IP: localhost
+2025-09-14 22:56:36 - INFO - SYSTEM_EVENT - Event: Fallback registration, Details: User: sergey, IP: localhost
+2025-09-14 22:56:52 - ERROR - ERROR - Type: DATABASE_ERROR, Message: cannot import name 'Database' from 'autorization.registration' (D:\backup\autorization\registration.py), User: SYSTEM, IP: localhost
+2025-09-14 22:56:52 - INFO - AUTH_ATTEMPT - User: sergey, Status: FAILED, IP: localhost
+2025-09-14 23:54:41 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-14 23:54:49 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-14 23:54:49 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-14 23:54:50 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-14 23:54:53 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 00:10:51 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:10:55 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 00:11:02 - INFO - AUTH_ATTEMPT - User: user, Status: FAILED, IP: localhost
+2025-09-15 00:11:10 - INFO - REGISTRATION - User: user, Status: SUCCESS, IP: localhost
+2025-09-15 00:11:14 - INFO - AUTH_ATTEMPT - User: user, Status: FAILED, IP: localhost
+2025-09-15 00:11:19 - INFO - AUTH_ATTEMPT - User: user, Status: SUCCESS, IP: localhost
+2025-09-15 00:11:19 - INFO - USER_LOGIN - User: user, Type: USER, IP: localhost
+2025-09-15 00:11:20 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:11:22 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-15 00:11:28 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:11:47 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 00:11:55 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 00:11:55 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 00:11:56 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:11:59 - INFO - USER_LOGOUT - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 00:11:59 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 00:12:06 - INFO - AUTH_ATTEMPT - User: user, Status: SUCCESS, IP: localhost
+2025-09-15 00:12:06 - INFO - USER_LOGIN - User: user, Type: USER, IP: localhost
+2025-09-15 00:12:07 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:12:09 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-15 00:13:48 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:13:52 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 00:14:00 - INFO - AUTH_ATTEMPT - User: user, Status: SUCCESS, IP: localhost
+2025-09-15 00:14:00 - INFO - USER_LOGIN - User: user, Type: USER, IP: localhost
+2025-09-15 00:14:01 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:14:02 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-15 00:14:21 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:20:13 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 00:20:22 - INFO - AUTH_ATTEMPT - User: user, Status: SUCCESS, IP: localhost
+2025-09-15 00:20:22 - INFO - USER_LOGIN - User: user, Type: USER, IP: localhost
+2025-09-15 00:20:23 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:20:27 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-15 00:20:29 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:20:32 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-15 00:20:33 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:20:34 - INFO - USER_LOGOUT - User: user, Type: USER, IP: localhost
+2025-09-15 00:20:34 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 00:20:44 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 00:20:44 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 00:20:45 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:20:47 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 00:20:51 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:21:54 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 00:22:02 - INFO - AUTH_ATTEMPT - User: user, Status: SUCCESS, IP: localhost
+2025-09-15 00:22:02 - INFO - USER_LOGIN - User: user, Type: USER, IP: localhost
+2025-09-15 00:22:03 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:22:04 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-15 00:22:06 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:24:57 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 00:25:04 - INFO - AUTH_ATTEMPT - User: user, Status: SUCCESS, IP: localhost
+2025-09-15 00:25:04 - INFO - USER_LOGIN - User: user, Type: USER, IP: localhost
+2025-09-15 00:25:05 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:25:06 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-15 00:26:03 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:26:07 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 00:26:15 - INFO - AUTH_ATTEMPT - User: user, Status: FAILED, IP: localhost
+2025-09-15 00:26:20 - INFO - AUTH_ATTEMPT - User: user, Status: SUCCESS, IP: localhost
+2025-09-15 00:26:20 - INFO - USER_LOGIN - User: user, Type: USER, IP: localhost
+2025-09-15 00:26:21 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:26:22 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-15 00:27:52 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:27:55 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 00:28:04 - INFO - AUTH_ATTEMPT - User: user, Status: SUCCESS, IP: localhost
+2025-09-15 00:28:04 - INFO - USER_LOGIN - User: user, Type: USER, IP: localhost
+2025-09-15 00:28:05 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:28:06 - INFO - USER_ACTION - User: user, Action: OPEN_USER_STORAGE, Details: , IP: localhost
+2025-09-15 00:28:14 - INFO - USER_ACTION - User: user, Action: USER_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:28:40 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 00:28:48 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 00:28:48 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 00:28:49 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 00:28:50 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 00:31:53 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 01:08:46 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 01:09:01 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 01:09:01 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 01:09:02 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 01:09:04 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 01:10:31 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 01:15:16 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 01:15:26 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 01:15:26 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 01:15:27 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 01:15:28 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 01:26:46 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 01:27:52 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 01:28:01 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 01:28:01 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 01:28:02 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 01:28:03 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 01:34:52 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 10:55:27 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 10:55:37 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 10:55:37 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 10:55:38 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 10:55:43 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 11:03:45 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:03:49 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 11:03:59 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 11:03:59 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 11:04:00 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:04:01 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 11:05:58 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:06:08 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 11:06:17 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 11:06:17 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 11:06:19 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:06:20 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 11:06:31 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:06:34 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 11:06:42 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 11:06:42 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 11:06:43 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:06:44 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 11:06:58 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:07:01 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 11:07:09 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 11:07:09 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 11:07:10 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:07:11 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 11:07:21 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:07:24 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 11:07:31 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 11:07:31 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 11:07:33 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:07:34 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 11:07:42 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:07:51 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 11:07:58 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 11:07:58 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 11:08:00 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:08:00 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 11:08:43 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:21:18 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 11:21:27 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 11:21:27 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 11:21:28 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 11:21:29 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 11:48:43 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 12:33:59 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 12:34:08 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 12:34:08 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 12:34:09 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 12:34:10 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 12:34:13 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 13:47:29 - INFO - SYSTEM_EVENT - Event: Login window opened, Details: , IP: localhost
+2025-09-15 13:47:42 - INFO - AUTH_ATTEMPT - User: admin, Status: FAILED, IP: localhost
+2025-09-15 13:48:54 - INFO - AUTH_ATTEMPT - User: admin, Status: SUCCESS, IP: localhost
+2025-09-15 13:48:54 - INFO - USER_LOGIN - User: admin, Type: ADMIN, IP: localhost
+2025-09-15 13:48:56 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
+2025-09-15 13:48:58 - INFO - ADMIN_ACTION - Admin: admin, Action: OPEN_ADMIN_STORAGE, Details: , IP: localhost
+2025-09-15 13:55:44 - INFO - ADMIN_ACTION - Admin: admin, Action: ADMIN_PANEL_OPENED, Details: , IP: localhost
